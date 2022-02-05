@@ -32,17 +32,99 @@ Course Structure, Deliverables & Grading
 
 We will use prepared lectures only to structure discussions and activities. Our time together includes a few classroom based sessions, an immersive outdoor Leadership Laboratory retreat experience (Thompson Island / Outward Bound), Leadership Lunches, and small group discussion sections.
 
-| COURSE LEARNING OBJECTIVES | DELIVERABLES |
-| --- | --- |
-| Assess, Analyze & Reflect | Assignments 1–2:   Thompson Island (TI), Museum of Fine Arts (MFA), DiSC assessment |
-| Articulate, Communicate & Synthesize | Assignments 3-4: Personal vision speech & personal leadership plan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSE LEARNING OBJECTIVES
+{{< thclose >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assess, Analyze & Reflect
+{{< tdclose >}}
+{{< tdopen >}}
+﻿Assignments 1–2:   Thompson Island (TI), Museum of Fine Arts (MFA), DiSC assessment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Articulate, Communicate & Synthesize
+{{< tdclose >}}
+{{< tdopen >}}
+Assignments 3-4: Personal vision speech & personal leadership plan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required and optional readings are intended to spur thoughtful discussion. Although the course is offered pass-fail (P / D / F), the course deliverables are weighted as follows in determining your grade:
 
-| ASSIGNMENTS / ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignment 1: MFA, TI analyze & reflect | 15 |
-| Assignment 2: DiSC assessment | 15 |
-| Assignment 3: Vision: Elevator Speech | 20 |
-| Assignment 4: Personal leadership plan | 30 |
-| Discussion | 20
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS / ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: MFA, TI analyze & reflect
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: DiSC assessment
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3: Vision: Elevator Speech
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4: Personal leadership plan
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
