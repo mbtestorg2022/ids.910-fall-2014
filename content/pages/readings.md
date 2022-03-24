@@ -15,7 +15,7 @@ Heifetz, Ronald A., and Martin Linsky. "The Boston Heart of Danger." Chapter 1 i
 
 Tan, Chade-Meng. _Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_. HarperOne, 2014. ISBN: 9780062116932.
 
-Augustine, Norman R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Twelve Qualities of a Leader." Based on a presentation at _The Colloquium on Leadership, Creativity and Values_. The Center for Strategic and International Studies, Washington, DC, April 29, 1999.
+Augustine, Norman R. "Twelve Qualities of a Leader." Based on a presentation at _The Colloquium on Leadership, Creativity and Values_. The Center for Strategic and International Studies, Washington, DC, April 29, 1999.
 
 ### Discussion Group Session II
 
@@ -40,4 +40,4 @@ Evans, Harold. "[The Spark of Genius](http://edc-connection.ebscohost.com/c/arti
 
 Shenk, Joshua Wolf. "[The True Lincoln](http://content.time.com/time/magazine/article/0,9171,1077281,00.html)." _Time Magazine_, July 2005, 39–44.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Annotated Bibliography on Leadership, Center for Strategic International Studies, Abshire-Inamori Leadership Academy (PDF)](http://web.archive.org/web/20090211115112/http://csis.org/images/stories/aila/090105_aila_bibliography.pdf)
+[Annotated Bibliography on Leadership, Center for Strategic International Studies, Abshire-Inamori Leadership Academy (PDF)](http://web.archive.org/web/20090211115112/http://csis.org/images/stories/aila/090105_aila_bibliography.pdf)
