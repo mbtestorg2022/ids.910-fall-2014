@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 resourcetype: Image
 title: IDS-910_stat-students.png
 uid: d6e098fd-89fa-940f-e49f-cad97de2ec9f
